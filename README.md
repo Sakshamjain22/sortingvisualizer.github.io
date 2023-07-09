@@ -1,3 +1,5 @@
+DEPLOYED LINK = https://sakshamjain22.github.io/sortingvisualizer.github.io/
+
 # Sorting_Visualizer
 
 Implemented algorithms:
